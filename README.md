@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">Depois de mergulhar por anos na criação de conteúdo sobre games, decidi correr atrás de um sonho antigo: voltar a estudar e me dedicar ao desenvolvimento e TI. Minha paixão por essa área começou lá no curso técnico em Informática, onde me encantei de vez. Agora, estou cursando Análise e Desenvolvimento de Sistemas e também sou fascinada pelo universo dos dados. Estudar e aprender coisas novas é o que faz meu olho brilhar e me mantém motivada!</p>
+<p align="center">Depois de atuar por anos na criação de conteúdo sobre games, decidi correr atrás de um sonho antigo: voltar a estudar e me dedicar ao desenvolvimento e TI. Minha paixão por essa área começou lá no curso técnico em Informática, onde me encantei de vez. Agora, estou cursando Análise e Desenvolvimento de Sistemas e também sou fascinada pelo universo dos dados. Estudar e aprender coisas novas é o que faz meu olho brilhar e me mantém motivada!</p>
 
 ###
 
